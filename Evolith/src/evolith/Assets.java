@@ -33,6 +33,7 @@ public class Assets {
         laser = new SoundClip("/sounds/laser.wav");
         expSound = new SoundClip("/sounds/explosion.wav");
         //load the 4 different alien sprites 
+        //hola
         alien[0] = ImageLoader.loadImage("/images/alienorange.png");
         alien[1] = ImageLoader.loadImage("/images/alienred.png");
         alien[2] = ImageLoader.loadImage("/images/alienblue.png");
